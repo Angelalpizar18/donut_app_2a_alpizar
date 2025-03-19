@@ -78,7 +78,7 @@ class _HomePageState extends State<HomePage> {
                 DonutTab(),
                 BurgerTab(),
                 SmoothieTab(),
-                PanCakesTab(),
+                PancakesTab(),
                 PizzaTab(),
               ])),
               //Carrito
